@@ -1,10 +1,10 @@
 # Meme Generator (Flask + Docker)
 
 Preprost spletni Meme Generator, ki omogoča:
-- nalaganje slike,
-- dodajanje zgornjega in spodnjega teksta,
-- generiranje mema,
-- prikaz mema v brskalniku.
+- nalaganje slike
+- dodajanje zgornjega in spodnjega teksta
+- generiranje mema
+- prikaz mema v brskalniku
 
 ## Tehnologije
 - Python 3.12
